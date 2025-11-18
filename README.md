@@ -1,25 +1,3 @@
 ﻿# AttendEase
 
-🚀 Features
-✅ Student Management
-Add new students
-Edit student details
-Delete students
-View complete student list
-📅 Attendance Management
-Mark daily attendance (Present/Absent)
-View attendance history
-Filter/search attendance records
-Auto-save attendance to LocalStorage
-👨‍🏫 Faculty Dashboard
-Faculty login (simple username-based)
-Mark attendance
-View all students
-View attendance logs
-👨‍🎓 Student Dashboard
-Students can view their attendance percentage
-View day-wise history
-💾 LocalStorage-Based Backend
-Works offline
-Persistent browser storage
-No server or database required
+
